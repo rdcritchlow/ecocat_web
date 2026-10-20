@@ -1,0 +1,26 @@
+/* css styles */
+
+
+/* Font */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+
+/* Main colours */
+:root {
+  --bs-primary: #669900;
+  --bs-body-bg: #f5f5f5;
+  --bs-body-color: #333333;
+  --bs-link-color: #669900;
+  --bs-link-color-rgb: 102, 153, 0;
+  --bs-link-hover-color: #4d7300;
+  --bs-link-hover-color-rgb: 77, 115, 0;
+  --bs-body-font-family: "Roboto", sans-serif;
+}
+body { background-color: #f5f5f5; color: #333333; font-family: "Roboto", sans-serif; }
+h1, h2, h3, h4, h5, h6, .navbar { font-family: "Roboto", sans-serif; }
+
+/* Top bar */
+.navbar { background-color: #669900 !important; }
+.navbar .navbar-brand, .navbar .nav-link { color: #ffffff !important; }
+
+/* "On this page" links */
+#TOC a, nav[role="doc-toc"] a.active { color: #669900 !important; border-left-color: #669900 !important; }
