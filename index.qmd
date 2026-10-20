@@ -19,6 +19,6 @@ This project aims to develop an open, modular application to assess ecosystem di
 ::: text-center
 [**Assessment tool**](https://assess.ecocatproject.org){target="_blank"}: assess ecosystem status following Red List of Ecosystems Guidelines.
 
-[![](images/logo-text-magicked-01.png){width="200"}](https://assess.ecocatproject.org){target="_blank"}
+[![](images/logo-text-magicked-01.png){width="200" style="margin-top: 2em;"}](https://assess.ecocatproject.org){target="_blank"}
 :::
 :::

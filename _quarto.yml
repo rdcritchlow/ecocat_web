@@ -6,14 +6,12 @@ project:
 
 website:
   title: "EcoCAT: Ecosystem Conservation Assessment Tools"
-  site-url: "https://ecocatproject.org"
   twitter-card: true
   favicon: images/e-favicon.png
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
 
 format:
   html:
