@@ -5,7 +5,7 @@ project:
     - CNAME
 
 website:
-  title: "EcoCAT: Ecosystem Conservation Assessment Tools"
+  title: "EcoCAT = Ecosystem Conservation Assessment Tools"
   twitter-card: true
   favicon: images/e-favicon.png
   navbar:
