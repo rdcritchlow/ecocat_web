@@ -1,0 +1,24 @@
+---
+title: "EcoCAT: Ecosystem Conservation Assessment Tools"
+pagetitle: "EcoCAT"
+---
+
+![](images/EcoCAT-wide-header_Tarciso-Leao.png.webp)
+
+This project aims to develop an open, modular application to assess ecosystem distribution, trends, function, degradation and risk of collapse following the IUCN Red List of Ecosystems guidelines
+
+## Tools
+
+::: {layout="[45,-10,45]"}
+::: text-center
+[**Mapping tool**](https://map.ecocatproject.org): automated ecosystem mapping and how they change over time.
+
+[![](images/EcoCAT_RGB_W.png){width="200"}](https://map.ecocatproject.org)
+:::
+
+::: text-center
+[**Assessment tool**](https://assess.ecocatproject.org): assess ecosystem status following Red List of Ecosystems Guidelines.
+
+[![](images/logo-text-magicked-01.png){width="200"}](https://assess.ecocatproject.org)
+:::
+:::

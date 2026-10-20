@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "EcoCAT: Ecosystem Conservation Assessment Tools"
+  twitter-card: true
+  favicon: images/e-favicon.png
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    page-layout: full
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+editor: visual
+
