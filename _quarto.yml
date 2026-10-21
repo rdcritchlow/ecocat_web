@@ -14,7 +14,9 @@ website:
         text: Home
 
 format:
-  html:
+   html:
+    link-external-newwindow: true
+    link-external-icon: false
     page-layout: full
     theme: cosmo
     css: styles.css

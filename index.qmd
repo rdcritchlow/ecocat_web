@@ -9,16 +9,16 @@ This project aims to develop an open, modular application to assess ecosystem di
 
 ## Tools
 
-::::: {layout="[45,-10,45]"}
+:::: {layout="[45,-10,45]"}
 ::: text-center
 [**Mapping tool**](https://map.ecocatproject.org){target="_blank"}: automated ecosystem mapping and how they change over time.
 
-[![](images/EcoCAT_RGB_W.png){width="200"}](https://map.ecocatproject.org)
+[![](images/EcoCAT_RGB_W.png){width="200"}](https://map.ecocatproject.org){target="_blank"}
 :::
 
 ::: text-center
 [**Assessment tool**](https://assess.ecocatproject.org){target="_blank"}: assess ecosystem status following Red List of Ecosystems Guidelines.
 
-[![](images/logo-text-magicked-01.png){width="200" style="margin-top: 2em;"}](https://assess.ecocatproject.org)
+[![](images/logo-text-magicked-01.png){width="200" style="margin-top: 2em;"}](https://assess.ecocatproject.org){target="_blank"}
 :::
-:::::
+::::
